@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mostakim52
-- 👀 I’m interested in a lot of programming :)
-- 🌱 I’m currently learning BsCSE in North South University.
+- 👀 I’m interested in a lot of programming. :)
+- 🌱 I’m currently doing BsCSE at North South University.
 - 💞️ I’m looking to collaborate on any project I get :)
 - 📫 How to reach me :
 -           Email: guyawesome96@gmail.com
