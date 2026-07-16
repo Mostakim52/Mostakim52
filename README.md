@@ -18,7 +18,7 @@ $$ \color{#b960e0} \textsf{\textit{"Fueled by curiosity, coffee, and optimizatio
 
 <!-- Content & Media Channels -->
 <a href="https://www.youtube.com/@mostakimhossain6865"><img src="https://img.shields.io/badge/YOUTUBE-0d1117?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube"/></a>
-<a href="https://open.spotify.com/user/Rubuu"><img src="https://img.shields.io/badge/SPOTIFY-0d1117?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="Spotify"/></a>
+<a href="https://open.spotify.com/user/31vtxswenmmj3xu5ztwarljjqypy"><img src="https://img.shields.io/badge/SPOTIFY-0d1117?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="Spotify"/></a>
 
 <!-- Social Spaces -->
 <a href="https://facebook.com/mostakim.rubaiyat"><img src="https://img.shields.io/badge/FACEBOOK-0d1117?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook"/></a>
