@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Mostakim52
-- 👀 I’m interested in a lot of programming. :)
-- 🌱 I’m currently doing BsCSE at North South University.
+- 👋 Hi, I’m Mostakim Hossain!
+- 🌱 I earned my BsCSE at North South University.
 - 💞️ I’m looking to collaborate on any project I get :)
 - 📫 How to reach me :
 -           Email: guyawesome96@gmail.com
@@ -22,9 +21,9 @@
 
 ### 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mostakim52&show_icons=true&theme=tokyonight&count_private=true" alt="Mostakim's GitHub Stats" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostakim52&layout=compact&theme=tokyonight" alt="Mostakim's Top Languages" height="190" />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Mostakim52&rank_icon=github&show_icons=true&include_all_commits=true&theme=great-gatsby)](https://github-stats-extended.vercel.app/api?username=Mostakim52&rank_icon=github&show_icons=true&include_all_commits=true&theme=great-gatsby)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Mostakim52&layout=compact&langs_count=4&theme=codeSTACKr)](https://github-stats-extended.vercel.app/api/top-langs?username=Mostakim52&layout=compact&langs_count=4&theme=codeSTACKr)
 </p>
 <!---
 Mostakim52/Mostakim52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
