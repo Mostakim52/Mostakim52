@@ -1,19 +1,20 @@
 <div align="center">
   <!-- Dynamic Typing Greeting -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=2000&color=7AA2F7&center=true&vCenter=true&width=600&height=70&lines=Greetings%2C+innovator!;I'm+Mostakim+Hossain." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=2000&color=b960e0&center=true&vCenter=true&width=600&height=70&lines=Greetings%2C+innovator!;I'm+Mostakim+Hossain." alt="Typing SVG" /></a>
 
-  <!-- Munchlax Pixel Art & Status -->
+  <!-- Dancing Ditto Media -->
   <br/>
-  <img src="https://media.tenor.com/sQQ4ikAjQngAAAAj/dancing-ditto-ditto.gif" alt="Ditto" width="400"/>
+  <img src="https://media.tenor.com/sQQ4ikAjQngAAAAj/dancing-ditto-ditto.gif" alt="Ditto" width="500"/>
   <br/>
-  <i>"Fueled by curiosity, coffee, and optimization algorithms."</i>
-  <br/>
-  <br/>
+</div>
 
-<!-- Professional & Portfolio Links -->
-<a href="https://mostakimhossain.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Portfolio"/></a>
-<a href="https://linkedin.com/in/mostakim52"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn"/></a>
-<a href="mailto:guyawesome96@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=f2cdcd" alt="Email"/></a>
+$$ \color{#b960e0} \textsf{\textit{"Fueled by curiosity, coffee, and optimization algorithms."}} $$
+
+<div align="center">
+  <!-- Professional & Portfolio Links -->
+  <a href="https://mostakimhossain.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/mostakim52"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=b960e0" alt="LinkedIn"/></a>
+  <a href="mailto:guyawesome96@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=f2cdcd" alt="Email"/></a>
 
 <!-- Content & Media Channels -->
 <a href="https://www.youtube.com/@MostakimHossain"><img src="https://img.shields.io/badge/YOUTUBE-0d1117?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube"/></a>
@@ -28,10 +29,12 @@
 
 ## 🧠 About Me
 
-I am a **Full-Stack Software Engineer & IoT Hardware Designer** holding a B.Sc. in Computer Science and Engineering from North South University. My expertise spans building scalable modern web ecosystems, real-time cross-platform mobile architectures, and engineering custom embedded hardware prototypes from the schematic up to assembly.
+$$\color{#b960e0}\textsf{I am a \textbf{Full-Stack Software Engineer and IoT Hardware Designer} holding a B.Sc. in Computer Science and}$$
+$$\color{#b960e0}\textsf{Engineering from North South University. My expertise spans building scalable modern web ecosystems,}$$
+$$\color{#b960e0}\textsf{real-time cross-platform mobile architectures, and engineering custom embedded hardware prototypes.}$$
 
-* 🛠️ Deeply passionate about **DIY electronics**, firmware optimization, and high-speed local AI orchestration.
-* 🤖 Actively exploring edge deployments, transformer-based text processing, and embedded systems architecture.
+* 🛠️ $\color{#b960e0}\textsf{Deeply passionate about \textbf{DIY electronics}, firmware optimization, and high-speed local AI orchestration.}$
+* 🤖 $\color{#b960e0}\textsf{Actively exploring edge deployments, transformer-based text processing, and embedded systems architecture.}$
 
 ```javascript
 const Mostakim = {
@@ -49,6 +52,7 @@ const Mostakim = {
     }
 };
 ```
+
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
