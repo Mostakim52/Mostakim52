@@ -4,7 +4,7 @@
 
   <!-- Dancing Ditto Media -->
   <br/>
-  <img src="https://media.tenor.com/sQQ4ikAjQngAAAAj/dancing-ditto-ditto.gif" alt="Ditto" width="500"/>
+  <img src="https://media.tenor.com/sQQ4ikAjQngAAAAj/dancing-ditto-ditto.gif" alt="Ditto" width="350"/>
   <br/>
 </div>
 
