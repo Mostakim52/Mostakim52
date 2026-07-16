@@ -27,7 +27,7 @@ $$ \color{#b960e0} \textsf{\textit{"Fueled by curiosity, coffee, and optimizatio
 <a href="https://www.snapchat.com/add/mostakim52"><img src="https://img.shields.io/badge/SNAPCHAT-0d1117?style=for-the-badge&logo=snapchat&logoColor=FFFC00" alt="Snapchat"/></a>
 </div>
 
-## 🧠 About Me
+## _About Me_
 
 $$\color{#b960e0}\textsf{I am a \textbf{Full-Stack Software Engineer and IoT Hardware Designer} holding a B.Sc. in Computer Science and}$$
 $$\color{#b960e0}\textsf{Engineering from North South University. My expertise spans building scalable modern web ecosystems,}$$
@@ -53,7 +53,7 @@ const Mostakim = {
 };
 ```
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ _Tech Stack & Tools_
 
 <div align="center">
 
@@ -78,7 +78,7 @@ const Mostakim = {
 
 </div>
 
-### 📈 GitHub Analytics
+### 📈 _GitHub Analytics_
 
 <div align="center">
 
