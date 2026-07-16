@@ -13,11 +13,11 @@ $$ \color{#b960e0} \textsf{\textit{"Fueled by curiosity, coffee, and optimizatio
 <div align="center">
   <!-- Professional & Portfolio Links -->
   <a href="https://mostakimhossain.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/mostakim52"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=b960e0" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/mostakimhossain"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=b960e0" alt="LinkedIn"/></a>
   <a href="mailto:guyawesome96@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=f2cdcd" alt="Email"/></a>
 
 <!-- Content & Media Channels -->
-<a href="https://www.youtube.com/@MostakimHossain"><img src="https://img.shields.io/badge/YOUTUBE-0d1117?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube"/></a>
+<a href="https://www.youtube.com/@mostakimhossain6865"><img src="https://img.shields.io/badge/YOUTUBE-0d1117?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube"/></a>
 <a href="https://open.spotify.com/user/Rubuu"><img src="https://img.shields.io/badge/SPOTIFY-0d1117?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="Spotify"/></a>
 
 <!-- Social Spaces -->
